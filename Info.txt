@@ -1,0 +1,4 @@
+Getting PC and netowork info through Microsoft.VisualBasic.Devices
+
+See info here:
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.visualbasic.devices?view=windowsdesktop-8.0
